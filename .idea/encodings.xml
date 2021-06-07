@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/demo_diudiu.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo_new.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/locust_add_electronic_medical_records.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/locust_add_supplier.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/locust_collection.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/locust_collection_point.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/locust_create_new_visit.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/locust_create_patient.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/locust_create_registered.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/locust_demo_new.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/locust_image_list.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/locust_one_demo.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/locust_patient_create.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/locust_pre_create_visit.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/locust_pre_demo.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/locust_update_electronic_medical_records.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/locust_yami_shop.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

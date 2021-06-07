@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1dd69282-32fa-469d-a069-130b04675880" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_login.coverage" NAME="locust_login Coverage Results" MODIFIED="1573810640121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_send_group_gift__1_.coverage" NAME="locust_send_group_gift (1) Coverage Results" MODIFIED="1569483891245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_get_group.coverage" NAME="locust_get_group Coverage Results" MODIFIED="1570848126084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$Tool.coverage" NAME="Tool Coverage Results" MODIFIED="1571903003179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_demo1.coverage" NAME="locust_demo1 Coverage Results" MODIFIED="1584337335396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$Login.coverage" NAME="Login Coverage Results" MODIFIED="1573810687496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_registered.coverage" NAME="locust_registered Coverage Results" MODIFIED="1569821474461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_get_gift.coverage" NAME="locust_get_gift Coverage Results" MODIFIED="1570846233421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_send_red_packet.coverage" NAME="locust_send_red_packet Coverage Results" MODIFIED="1569481621959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_update_nickname.coverage" NAME="locust_update_nickname Coverage Results" MODIFIED="1569566865601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_send_group_gift.coverage" NAME="locust_send_group_gift Coverage Results" MODIFIED="1573810137621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_add_friend.coverage" NAME="locust_add_friend Coverage Results" MODIFIED="1570844590750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="ae782c79-a46c-4f8c-8a4b-50f3a8053a46" />
+  <component name="ProjectId" id="1ZOByuO2Yp14kbn9ZQy48a0jVAn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\LocustTest1\venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.demo_diudiu">
+    <configuration name="demo_diudiu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LocustTest1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_diudiu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="locust_add_items_OutStorage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LocustTest1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/locust_add_items_OutStorage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="locust_create_new_visit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LocustTest1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/locust_create_new_visit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="locust_demo1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LocustTest1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/locust_demo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="locust_pre_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LocustTest1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/locust_pre_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.locust_pre_demo" />
+      <item itemvalue="Python.locust_add_items_OutStorage" />
+      <item itemvalue="Python.demo_diudiu" />
+      <item itemvalue="Python.locust_create_new_visit" />
+      <item itemvalue="Python.locust_demo1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo_diudiu" />
+        <item itemvalue="Python.locust_demo1" />
+        <item itemvalue="Python.locust_create_new_visit" />
+        <item itemvalue="Python.locust_pre_demo" />
+        <item itemvalue="Python.locust_add_items_OutStorage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dd69282-32fa-469d-a069-130b04675880" name="Default" comment="" />
+      <created>1569480685104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569480685104</updated>
+      <workItem from="1584700519013" duration="2531000" />
+      <workItem from="1584703387892" duration="17234000" />
+      <workItem from="1584926258188" duration="2175000" />
+      <workItem from="1584930872479" duration="21227000" />
+      <workItem from="1584957212814" duration="40599000" />
+      <workItem from="1585121359517" duration="15000000" />
+      <workItem from="1586788247745" duration="1198000" />
+      <workItem from="1587478294097" duration="818000" />
+      <workItem from="1588904015543" duration="67000" />
+      <workItem from="1591280288856" duration="3500000" />
+      <workItem from="1593148906629" duration="4626000" />
+      <workItem from="1593412460428" duration="4879000" />
+      <workItem from="1595855393309" duration="9828000" />
+      <workItem from="1596028121168" duration="1818000" />
+      <workItem from="1596030854296" duration="910000" />
+      <workItem from="1596032667741" duration="667000" />
+      <workItem from="1596034400991" duration="7713000" />
+      <workItem from="1596267377203" duration="31972000" />
+      <workItem from="1597044166672" duration="3651000" />
+      <workItem from="1597282399009" duration="7591000" />
+      <workItem from="1598086056909" duration="5148000" />
+      <workItem from="1617014110610" duration="874000" />
+      <workItem from="1617076222789" duration="20000" />
+      <workItem from="1617076308395" duration="151108000" />
+      <workItem from="1618195795621" duration="67661000" />
+      <workItem from="1618453276879" duration="7313000" />
+      <workItem from="1618468445180" duration="17926000" />
+      <workItem from="1618553424119" duration="21926000" />
+      <workItem from="1618818607270" duration="154000" />
+      <workItem from="1618819007989" duration="186646000" />
+      <workItem from="1620811795543" duration="806000" />
+      <workItem from="1620876139409" duration="906000" />
+      <workItem from="1620887371299" duration="5923000" />
+      <workItem from="1621826100542" duration="4474000" />
+      <workItem from="1622181934409" duration="719000" />
+      <workItem from="1622183890014" duration="5680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1620976439743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620976439743" />
+    <state x="2660" y="286" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620809051481" />
+    <state width="1877" height="357" key="GridCell.Tab.0.bottom" timestamp="1621840714226">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.720@1920.0.1280.720" timestamp="1620629059925" />
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620811447285" />
+    <state width="1877" height="357" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1621840714226" />
+    <state width="1877" height="357" key="GridCell.Tab.0.center" timestamp="1621840714226">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="319" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.720@1920.0.1280.720" timestamp="1620629059925" />
+    <state width="1877" height="354" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620811447284" />
+    <state width="1877" height="357" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1621840714226" />
+    <state width="1877" height="357" key="GridCell.Tab.0.left" timestamp="1621840714225">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="319" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.720@1920.0.1280.720" timestamp="1620629059924" />
+    <state width="1877" height="354" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620811447284" />
+    <state width="1877" height="357" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1621840714225" />
+    <state width="1877" height="357" key="GridCell.Tab.0.right" timestamp="1621840714226">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="319" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.720@1920.0.1280.720" timestamp="1620629059925" />
+    <state width="1877" height="354" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620811447284" />
+    <state width="1877" height="357" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1621840714226" />
+    <state width="1877" height="354" key="GridCell.Tab.1.bottom" timestamp="1620811447285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620811447285" />
+    <state width="1877" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1619502333796" />
+    <state width="1877" height="354" key="GridCell.Tab.1.center" timestamp="1620811447285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620811447285" />
+    <state width="1877" height="354" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1619502333795" />
+    <state width="1877" height="354" key="GridCell.Tab.1.left" timestamp="1620811447285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620811447285" />
+    <state width="1877" height="354" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1619502333795" />
+    <state width="1877" height="354" key="GridCell.Tab.1.right" timestamp="1620811447285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620811447285" />
+    <state width="1877" height="354" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1619502333795" />
+    <state x="2460" y="274" key="IDE.errors.dialog" timestamp="1620713041275">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2460" y="274" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620713041275" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1623056316898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2204" y="10" key="SettingsEditor/0.0.1920.1040/1920.0.1280.720@1920.0.1280.720" timestamp="1620627807135" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1623056316898" />
+    <state x="2381" y="170" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620893708684" />
+    <state x="372" y="116" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1620355199373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="372" y="116" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620355199373" />
+    <state x="2292" y="120" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1617694145744" />
+    <state x="1988" y="44" width="1420" height="789" maximized="true" key="dock-window-1" timestamp="1618813832336">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1988" y="44" width="1420" height="789" maximized="true" key="dock-window-1/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1618813832336" />
+    <state x="2408" y="199" width="1420" height="789" maximized="true" key="dock-window-2" timestamp="1618812203438">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2408" y="199" width="1420" height="789" maximized="true" key="dock-window-2/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1618812203438" />
+    <state x="516" y="0" width="1420" height="789" key="dock-window-3" timestamp="1618818761772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="516" y="0" width="1420" height="789" key="dock-window-3/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1618818761772" />
+    <state x="2961" y="187" width="678" height="688" key="find.popup" timestamp="1620721264662">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2961" y="187" width="678" height="688" key="find.popup/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620721264662" />
+    <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1618984498049">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1618984498049" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_patient_create.coverage" NAME="locust_patient_create Coverage Results" MODIFIED="1617765129325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_add_items_OutStorage.coverage" NAME="locust_add_items_OutStorage Coverage Results" MODIFIED="1619162413653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_get_here.coverage" NAME="locust_get_here Coverage Results" MODIFIED="1617782706720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_yami_shop.coverage" NAME="locust_yami_shop Coverage Results" MODIFIED="1597658153304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_zadan.coverage" NAME="locust_zadan Coverage Results" MODIFIED="1617104597733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_update_items_OutStorage.coverage" NAME="locust_update_items_OutStorage Coverage Results" MODIFIED="1617868878981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_update_items_PutInStorage.coverage" NAME="locust_update_items_PutInStorage Coverage Results" MODIFIED="1617861263967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_create_registered.coverage" NAME="locust_create_registered Coverage Results" MODIFIED="1619070283408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$do_sql.coverage" NAME="do_sql Coverage Results" MODIFIED="1585131334799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$UserID_data.coverage" NAME="UserID_data Coverage Results" MODIFIED="1585035616176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_get_new.coverage" NAME="locust_get_new Coverage Results" MODIFIED="1618305715723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_add_items_PutInStorage.coverage" NAME="locust_add_items_PutInStorage Coverage Results" MODIFIED="1619161389397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$demo_new.coverage" NAME="demo_new Coverage Results" MODIFIED="1617170380351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_login.coverage" NAME="locust_login Coverage Results" MODIFIED="1584927273687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_add_electronic_medical_records.coverage" NAME="locust_add_electronic_medical_records Coverage Results" MODIFIED="1619060121815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_update_electronic_medical_records.coverage" NAME="locust_update_electronic_medical_records Coverage Results" MODIFIED="1619157503178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_one_demo.coverage" NAME="locust_one_demo Coverage Results" MODIFIED="1618831384040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_send_red_packet.coverage" NAME="locust_send_red_packet Coverage Results" MODIFIED="1617099623554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_create_new_visit.coverage" NAME="locust_create_new_visit Coverage Results" MODIFIED="1620718932431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_zadan.coverage" NAME="locust_zadan Coverage Results" MODIFIED="1596698788206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_add_supplier.coverage" NAME="locust_add_supplier Coverage Results" MODIFIED="1617872997048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$demo_diudiu.coverage" NAME="demo_diudiu Coverage Results" MODIFIED="1621840714212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_h5.coverage" NAME="locust_h5 Coverage Results" MODIFIED="1618811946429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$client_1.coverage" NAME="client-1 Coverage Results" MODIFIED="1585036360433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../zhaoyu_200324/client" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_sql.coverage" NAME="locust_sql Coverage Results" MODIFIED="1585130699176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_demo1.coverage" NAME="locust_demo1 Coverage Results" MODIFIED="1621840272788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_pre_demo.coverage" NAME="locust_pre_demo Coverage Results" MODIFIED="1620629059900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_get_here.coverage" NAME="locust_get_here Coverage Results" MODIFIED="1595925466699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_demo1.coverage" NAME="locust_demo1 Coverage Results" MODIFIED="1596089979379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$locust_send_group_gift.coverage" NAME="locust_send_group_gift Coverage Results" MODIFIED="1596300259478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_image_list.coverage" NAME="locust_image_list Coverage Results" MODIFIED="1619156351025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest1$yami_shop.coverage" NAME="yami_shop Coverage Results" MODIFIED="1597326139069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LocustTest_new$locust_pre_create_visit.coverage" NAME="locust_pre_create_visit Coverage Results" MODIFIED="1618802350532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
